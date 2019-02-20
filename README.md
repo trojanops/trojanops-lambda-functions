@@ -1,2 +1,2 @@
 # trojanops-lambda-functions
-It contains all AWS Lambda Functions.
+It contains AWS Lambda Functions.
